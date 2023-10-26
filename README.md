@@ -9,7 +9,7 @@
 [6. Выводы](https://github.com/eka23sokol/project_2_ds/tree/main/README.md#Выводы)
 
 ### Описание проекта
-Проанализиоровать вакансии с сайта HeadHunter.
+Проанализировать вакансии с сайта HeadHunter.
 
 :arrow_up: [к оглавлению](https://github.com/eka23sokol/project_2_ds/tree/main/README.md#Оглавление)
 

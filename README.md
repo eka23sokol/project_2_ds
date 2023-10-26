@@ -39,6 +39,6 @@
 
 
 ### Выводы:  
-Выводы по кажому этапу работы приведены в файле Project-2._Сокольская_Е.ipynb (https://nbviewer.org/github/eka23sokol/project_2_ds/blob/main/Project-1._%D0%A1%D0%BE%D0%BA%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F_%D0%95.ipynb)
+Выводы по кажому этапу работы приведены в файле Project-2._Сокольская_Е.ipynb
 
 :arrow_up: [к оглавлению](https://github.com/eka23sokol/project_2_ds/tree/main/README.md#Оглавление)
